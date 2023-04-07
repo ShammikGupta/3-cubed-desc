@@ -1,0 +1,25 @@
+Here is a case study for a European Telecom company for their order management process.
+
+When Covid happened, the company was inundated with orders for telecom equipment to facilitate their clients' work from home needs.  As the orders started coming in for different types of equipment, the company discovered its own problems in processing these orders because of the restrictions and reduced availability of its own staff. It was critical for them to manage this increased order flow with similar client experience (cycle time) as earlier, but with reduced resources and adequate controls to prevent revenue leakage or erroneous fulfillment.  They turned to 3-Cubed for a solution.
+
+Inform: They had been working on various digital transformation initiatives prior to this pandemic and therefore had the information to build the model readily available.  They uploaded this data onto 3-Cubed and validated the results within a week.
+
+Issues: The 3-Cubed digital twin showed that their cycle time had indeed gone up, and the root cause analysis indicated that this was because of the following metrics:
+a. controls effectiveness has suffered because controls were being perfunctorily performed in the mistaken belief that these would accelerate cycle time. however, the poor controls led to extra rework. 
+b. the extra rework in turn led to increased wait periods waiting for the customer as well as 
+c. extra effort in rework, particularly in non-value added routing activities to get the information to the right teams
+d. the combination of both these led to volatile daily utilization of the reduced team, resulting in spikes in peak utilization, which in turn excarbated the delays in cycle time
+e. because of management effort to find the issues, these delays also led to increased reporting, once again leading to the extra effort, peak utilization and delays issues.
+
+Ideas:
+3-Cubed suggested ideas to increase the control effectiveness by changing the sequence and timing of customer on-verification controls, centralizing these to reduce rework.
+The tool also suggested automation to reduce the effort of routing and reporting, but this was not acceptable to management given the delays in automation implementation.
+As best next actions, 3-Cubed suggested minimal digitization of the routing process using video conferencing rather than email to reduce the wait periods and reduce rework.
+It also suggested a staggered work time for their staff other than fulfillment teams, leveraging the work from home patterns
+Finally, it suggested work allocation of specific tasks in client verification between the hubs and spokes factoring in resource availability to mitigate peak utilization.
+
+Impact:
+The impact of these ideas showed a reduction of 59% in cycle time from the current value of 24 days, an increase in first time right of 18%, and a reduction in peak utilization by 29% from the current team size of 190 persons.
+
+Implementation:
+Because all the relevant teams were part of the decision making, the implementation plan was rolled out seamlessly starting with the restructuring of the controls, and the use of video conferencing.  This was followed by the work allocation of activities along with a formal rostering of the work from home staff based on the suggested work time for implementation within 2weeks.

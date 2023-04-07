@@ -1,0 +1,23 @@
+Our customers use the product for a variety of use cases.  Some of these include:
+Companies Use Cases:
+New Competition: Creating new customer experience standards while maintaining cost levels and compliance standards.
+Regulatory Changes: Compliance with new regulations with minimal disruption to client experience and in the most cost-effective manner.
+Cost Cutting: Increasing cost efficiency while ensuring no degradation of customer experience or compromise on compliance requirements. 
+Mergers and Acquisitions: Smooth integration of the newly acquired company while realising cost saving while adhering to controls and ensuring better client experience.
+Managing Capacity Disruptions: doing more with fewer resources to maintaining control over operations, and meet client demands. 
+BPO Providers Use Cases:
+- Solution Design: Design and implement cost-efficient and effective solutions for clients, while supporting high standards of quality and compliance (control, cost, client).
+- Transition: Smoothly transition clients to new processes and systems, minimizing disruption and maximizing efficiency (control, cost, client).
+- Continuous Improvement: Continuously monitor and improve operations, using data-driven insights to drive cost savings and improve client satisfaction (control, cost, client).
+- Contract renewal: Proactively manage contract renewals and negotiate favourable terms, balancing client needs with financial goals (control, cost, client).
+- Optimize margins: while maintaining a high level of service and meeting customer SLAs (control, cost, client).
+- Manage Customer SLAs: Ensure high-quality service delivery, while maintaining control over costs and ensuring compliance.
+Consulting Use Cases:
+- "New Operations Design" - Design new operations with Digital Twin, ensuring optimal performance and minimal operational risk.
+- "Benchmarking Studies" - Compare your operations with industry leaders using our Structured Methodology, identifying areas of improvement.
+- "Process Maturity Models" - Assess and improve the maturity of your processes using our Augmented Intelligence, driving efficiency and effectiveness.
+- "Cost Reduction" - Reduce costs and improve performance using Impact Analysis, identifying areas of inefficiency and waste.
+- "Customer Journeys" - Improve the customer experience using Design Thinking, creating seamless and efficient journeys.
+- "Operational Risk Assessment" - Identify and mitigate operational risks using our 360-degree perspective, ensuring business continuity.
+- "Digital Transformation" - Embrace digital technology and improve operations using our Digital Twin, staying ahead of the competition.
+- "Implementation Support" - Ensure successful implementation using our Structured Methodology, driving results and minimizing risk.

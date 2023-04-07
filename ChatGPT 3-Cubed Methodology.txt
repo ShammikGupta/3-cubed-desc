@@ -1,0 +1,100 @@
+In building the model, the information required is as follows:
+1. Process Map: A level 3 cross functional process map consisting of teams, start, end, activities, decisions and arrows.  This is the base of the information required.
+3-Cubed can compute where rework is happening based on the decisions, arrows, and activities.
+2. Outcome: Marking those end activities that represent rejections.  Together with rework, 3-cubed is able to compute where the process results in not First Time right.
+3. Teams: Information on the teams in the process map including location, work hours, shift length, and team size.  This information helps set up a global clock for scheduling the activities.
+4. Product:  The output of each activity (and therefore the input to the successor activity).  This helps define the activity volume as well as later on, the control objectives.
+5. Volume: The number of times the activity is performed.  The volume for the preceding activity is the volume for the next activity.  At decisions, the volume splits into multiple paths that 3-Cubed computes.  With volume information and the process map, 3-Cubed can compute the %rework, %rejection and %non-first time right.
+6. Average Handle Time (AHT): The time taken to perform the activity once.  The AHT multiplied by the volume is the effort required for each activity.  If we divide the activity effort by the shift length of each activity, we get the implied number of people in the team needed to perform the activity, and the minimum team size by summing the implied number of people for each activity performed by the team.
+7. Wait periods:  These are wait times between activities, typically when two activities are performed by different teams.  These wait times can be entered as delays, specific times of day, beginning or end of day wait times.  These increase the cycle time of process as subsequent activities can start only after this wait period, when specified.
+8. Deadlines: These are times associated the activities by which time all tasks of the activity need to be completed.  These can either be expressed as absolute deadlines that must be completed irrespective of preceding tasks or relative deadlines where these are to be completed after the activity mentioned as relative to within the time frame mentioned.
+Effort, work timing, team size, wait periods and deadlines are used as parameters for 3-Cubed to generate a schedule to complete the tasks represented by the activities and rework in the process map, in the order represented by the arrows within the deadlines and adhering to the wait periods.  If required, 3-Cubed automatically increases the team size to adhere to the deadlines and can provide the cycle time for the process, including the resources required by each team at each period of the scheduling, the bottlenecks and the tasks delayed because they are waiting for teams to start work the next day.  
+
+9. Systems and Applications:  This is the software used for each activity in the process map.
+10. Forms and Modes: Forms are the digital or physical screens or documents that are used by each activity in the process.  Mode is the means by which the documents move from one activity to the other and include digital, paper, image, phone or video.
+11. Rules and Competency:  These are inputs or elements of the forms that define the calculations, guidelines, templates, or policies to be used in performing an activity.  The competency for each rule determines the skill required to follow the element and is classified as Fact, Computation or Judgement.  
+The rules and competencies determine the expertise required to perform the activity and when aggregated for all activities performed by a team, indicate the skills required by the team.
+The systems used and the modes also point to the automation potential for the activity, with digital modes allowing automation, but manual modes requiring digitization prior to automation.  The competency of an activity determines if the automation is machine learning (for judgement rules) or RPA automation (for facts and computation).
+12.  Controls and Objectives:  Control Objective refers to a specific goals or objectives to ensure the quality, and compliance of the process.  Controls are the specific activities in the process that enable the objective to be met.  Users add Objectives and select the control activities, mapping each control to the objective.
+The control mapping allows 3-cubed to compute the control adequacy, i.e. which objectives have control and if they have sufficient control (three lines of defence).  3-cubed can also compute the effectiveness of the control based on segregation of duty (control performed by a different team than the one performing the non-control activities); proximity of the control to non-control activities; and if the appropriateness of the activity Rules to serve as controls.
+The effort of the control activities provides the control effort metric and if the control effort is high, it may indicate over control along with more than 4 lines of defence.  Control rework is the rework that is caused by control activities, particularly decisions. 
+13.  NVA activities: Identifying activities or steps in the process that do not directly contribute to achieving the desired outcome or adding value to the customer and classifying them into routing (sending and receiving information), reporting (unnecessary controls) and recording (data entry).
+The effort spent on these activities is the NVA effort that can be removed to save cost and cycle time.
+14. Salaries is the average salary paid to each team.
+Salaries for each team multiplied by the team size gives the total HR cost.
+15. Infrastructure cost is the average seat cost per location.
+The schedule also computes peak capacity viz, the time when the most number of people in each team are required in office.  The sum of this peak capacity for any given hour for all teams in the same location defines the number of seats needed.  The sum of the peak number of seats per location multiplied by the seat cost per location is the infrastructure cost.
+
+Total Cost is the sum of HR cost and Infrastructure Cost
+
+If you refer the above section, you can see the metrics computed are:
+Cost Metrics:
+Total Cost
+Infrastructure Cost
+HR Cost
+Number of people (peak utilization)
+Effort
+Automation Potential
+NVA effort
+Non-FTR effort
+Control effort
+Customer Experience metrics:
+First Time Right
+Critical Path
+Cycle Time
+Control Metrics:
+Control Adequacy (Lines of defense)
+Control Effectiveness
+Control rework
+Control effort
+Each of these metrics is computed using information in the Information phase above.
+
+In solving the model, 3-cubed provides ideas to resolve each metric depending on the metrics chosen for improvement. The ideas are like Lego blocks, in that they should be used together to design the desired operating model.
+The ideas for each metric are as follows:
+Cost Metrics:
+Infrastructure Cost: 
+Change Seat Cost
+Change Working Hours (to change the schedule)
+
+HR Cost:
+Change Salaries
+Change Location
+Skill (add or remove activity parameters and change competency)
+Work Allocation (group similar competency teams)
+
+Effort:
+Change First Time Right (reduce rework effort)
+Automate Activities (reduce AHT)
+Remove or automate NVA.
+Remove redundant control (reduce control effort)
+Skill (change competency or higher more qualified people to reduce AHT)
+
+Peak Utilization:
+All Effort Ideas, plus
+Change deadlines.
+Change working hours.
+Allocate work between teams.
+Merge Teams
+Change Wait Periods
+
+Number of People:
+All Effort Ideas and Peak Utilization Ideas
+
+Customer Experience Metrics:
+First Time Right:
+Skill people (so activity parameters for decisions are better)
+Automate (activities in the rework loop)
+
+Cycle Time:
+All Peak Utilization ideas, plus
+Add People
+(Note, since cycle time and peak utilization are trade-offs, they set a mutual limit on how much the idea can be used)
+
+Control Metrics:
+Adequacy:
+Add controls if under-controlled.
+Remove redundant controls (if over controlled)
+Control effectiveness:
+Skilling (change the control activity parameters to improve control)
+Work allocation (to improve skilling or to create segregation of duty)
+Edit process (to bring controls closer to risk activities)

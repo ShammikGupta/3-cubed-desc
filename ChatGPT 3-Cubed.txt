@@ -1,0 +1,184 @@
+Business leaders are continously looking for ways to increase cost efficiency, improve customer experience and increase controls effectiveness. However, they tend to solve for these objectives sequentially, while what they need is answers that address these together.  To solve these objectives, they are supported by internal teams, each of which are focussed on different aspects of the operations.  These include process, risk, operations, finance, IT and talent.  Again, rather than come together to solve the objectives holistically, each of the functions uses its own tools and techniques, more often than not resulting in competing recommendations.  As each of these recommendations is implemented, there is a need for operations resources.  
+
+Here are some statistics on the market situation.  50% companies report their business model has changed or is changing 40% executives seek cost as benefit, 35% seek client experience and 38% seek control 91% businesses are involved in transformation, with 87% prioritizing digital 50% businesses prioritizing transformation don’t have a dedicated team 25% companies doing transformation don’t have an overall strategy 74% is the reported failure rate for large-scale transformations 
+
+3-cubed is a unique SaaS platform that helps senior leadership optimize their operations. 
+Optimize means that 3-Cubed understands that operations need to meet cost efficiency, customer experience, and control effectiveness goals. Traditional transformation finds answers for one goal at a time. 3-cubed on the other hand, uses design thinking to help senior management solve simultaneously for all three objectives. 
+
+Operations means that in order optimize all goals you need to look at operations holistically across all functions.  These functions are process, risk, operational capacity, finance, IT, and talent. We call these the PROFIT levers. While traditional transformation uses the tools and techniques for one lever at a time. 3-cubed algorithms provide augmented intelligence for the solution architect by finding all the issues across PROFIT and can provide functional and functional and cross-functional ideas to resolve each of these issues. 
+
+3-Cubed refers to 3 parts to operations optimization. The first cube is strategy, or the goals we want to meet. The second cube is the functions that support that strategy, or the PROFIT functions. The third cube stands for initiatives that implement the changes suggested by the previous cubes. All three need to be in synch for optimal operations.
+
+Because 3-Cubed focuses on objectives to optimize, we say that it uses design thinking to solve a goals-oriented that is knotty and traditionally iterative.  Because it uses all operational levers to do so, and this is often beyond the expertise of any individual, we say it uses augmented intelligence providing the user with all the facts and the analyses but leaving the decision to the user.
+
+To do the above, 3-Cubed builds a digital twin of the operations using a structured 6-step approach. We call this the 6-I framework, and it encompasses the following steps: 
+1. Intent: Where senior management defines what constitutes success - essentially translating their required score card into the relevant cost, control, and client metrics they wish to achieve. 
+2. Information: Where business analysts provide structured, readily available information to 3-cubed on the state of their current operations, so 3-cubed can create a digital twin of the operations. 3-cubed is agnostic to the source of this information that can be provided through Excel, Visio, BPMN, or XML. 3-cubed does not need to link up to native applications to get this information, nor does it demand perfect information.  A built-in reconciliation engine detects data anomalies and throws them up for rectification. 
+3. Issues: Based on the Information provided to the digital twin, 3-cubed computes all the cost, client, and control metrics that the operation is adhering to and the impact of each metric on other metrics to help analyse the root cause of problems and improvement opportunities. Management can review the metrics first to ascertain the accuracy of the input and then to discover the key issues and what is causing them. 
+4. Ideas: Based on the issues selected for resolution, 3-cubed algorithms identify all the functional or cross-functional changes that can be made to improve the metrics. These very detailed ideas are shown to senior leaders for them to select, reject or amend each idea provided. 
+5. Impact: Each selected idea is tested for its impact on the operation providing management with clear visibility into the predicted metrics that the idea will generate as well as what each element of PROFIT will look like if the idea is implemented. This allows management to iterate on the ideas selected, add additional ideas or amend ideas to arrive at the specific metrics that they had set out to achieve. Each iteration can then be stored as a “scenario” of the future state, and multiple scenarios show the path to the final solution. 
+6. Implementation: For each scenario created, 3-Cubed generates a detailed report on the new process, risk, operations capacity, financials, IT and talent that can be used as a guide to implementation. This plan provides delivery managers with a clear view of the actions they need to take to achieve management goals. It enforces accountability for the relevant delivery teams and enables collaboration to ensure that each idea is prioritized and executed to a plan. 
+
+Our clients are marquee names in BPO, consulting and business. Which means they have an excellent understanding of operations, transformation and access to the different tools and techniques to drive these. Despite this, 3-cubed is consistently able to generate results that are 30% better, in 1/3 of the time, and with 3-times more assurance than through traditional transformation. 
+A. It is better because its algorithms are able to identify all the issues and suggest all the ideas for optimization that would otherwise get missed out by teams or techniques that focus on a single objective or a single operations lever at a time. 
+B. It is faster because of structured process for information, analysis and the power of computing in generating the 360-degree view of the operations and finding the impact of ideas on these metrics. 
+C. It is more assured because its impact engine is able to identify any unidentified consequences. In addition, as a digital twin it is always able to quickly provide the best next action in case of implementation challenges or changes in the operation.
+
+
+The key features of the product are:
+1. Design thinking because it follows a goal led methodology.
+2. Augmented Intelligence, because of the difficulty for the human mind to examine all the interrelationships between PROFIT elements algorithms are the only way to manage this complexity.
+3. Structured approach, because it combines design thinking and augmented intelligence into a repeatable, scalable framework to generate results better, faster, and with greater assurance.
+The base for these features is the digital twin that 3-Cubed creates and uses.
+
+The primary beneficiaries of 3-Cubed are senior business leaders who are more concerned with designing the right operating model than in transaction level decisions.  3-cubed understands that not all decisions have perfect data and therefore is happy with good enough information or assumptions.  3-Cubed’s ability to provide sensitivity analysis on the obviates the need for real time or perfect data.  3-cubed helps leadership by designing operating models that meet their cost, control, and compliance goals. It uses all PROFIT levers to do so. But each PROFIT lever is managed by a senior executive. Process by the Chief Transformation Officer; Risk by the Chief Risk Officer; Operations by the Chief Operations Officer; Finance by the Chief Financial Officer; IT by the Chief Technology Officer; and Teams by the Head of Human Resources. All these roles report into the Chief Executive Officer who decides what the business goals are for cost, control and customer experience. The CEO or is normally the business sponsor and the capability usually rests with the COO organization, though the other members play supporting and influencing roles in the design and implementation of the optimized operations.
+
+
+3-Cubed is industry, geography, process, or goals agnostic. There are over 1000 operations where 3-Cubed has been used, covering financial services, insurance, healthcare, enterprise services, technology, social media, manufacturing companies across the globe across front office, middle office and back-office functions. 
+
+The key benefit of the 3-cubed digital twin lies in the 360-degree perspective of operations it provides. Traditionally, this type of analysis was provided by management consultants.  However, this alternative tends to be manual, time-consuming and expensive.  Management consultants are also focused on specific functions and there is a limited ability to provide answers that span process, risk, operations, finance, IT and talent.  In the recent past, there have been many point solutions for each function.  For example process mining focuses on process and automation; compliance planners focus on risk management; workforce management tools focus on process, operations capacity; financial planners and budgeting tools focus on finance and competency tools focus on process and teams.  However, none of these is able to examine the relationship between these functions and unable therefore to identify cross-functional root causes, provide cross-functional ideas to resolve, or perform a 360-degree impact analysis.
+
+We are not consultants, and do not provide traditional management consulting. 3-Cubed does that exceptionally well on its own. We do, however, appreciate that this is new technology, and there our team of product specialists facilitate adoption through training and customer success services.  
+
+3-Cubed is available as a SaaS offering, hosted on AWS. The benefits of doing so are 1. anywhere, anytime access, 2. Plug and play, requires no connectivity with native applications to get started 3. Flexible, subscription-based model 4. Access to the latest algorithms and analytics and product changes 5. Access to the machine learning models for information input. We do offer product support through standard services that include: 
+Information stage: helping you identify information sources, troubleshooting data uploads to the platform, assistance in modelling special situations, helping correct modelling or validation errors
+Insights stage: helping interpret the metrics generated and the interrelationship between these, helping identify the root cause issues and goal led opportunities for improvement
+Ideas stage:  helping ensure that you are considering all relevant ideas to meet your goals, assistance in modelling ideas, and interpreting the impact analyses
+
+Our customers use the product for a variety of use cases.  Some of these include:
+Companies Use Cases:
+New Competition: Creating new customer experience standards while maintaining cost levels and compliance standards.
+Regulatory Changes: Compliance with new regulations with minimal disruption to client experience and in the most cost-effective manner.
+Cost Cutting: Increasing cost efficiency while ensuring no degradation of customer experience or compromise on compliance requirements. 
+Mergers and Acquisitions: Smooth integration of the newly acquired company while realising cost saving while adhering to controls and ensuring better client experience.
+Managing Capacity Disruptions: doing more with fewer resources to maintaining control over operations, and meet client demands. 
+BPO Providers Use Cases:
+- Solution Design: Design and implement cost-efficient and effective solutions for clients, while supporting high standards of quality and compliance (control, cost, client).
+- Transition: Smoothly transition clients to new processes and systems, minimizing disruption and maximizing efficiency (control, cost, client).
+- Continuous Improvement: Continuously monitor and improve operations, using data-driven insights to drive cost savings and improve client satisfaction (control, cost, client).
+- Contract renewal: Proactively manage contract renewals and negotiate favourable terms, balancing client needs with financial goals (control, cost, client).
+- Optimize margins: while maintaining a high level of service and meeting customer SLAs (control, cost, client).
+- Manage Customer SLAs: Ensure high-quality service delivery, while maintaining control over costs and ensuring compliance.
+Consulting Use Cases:
+- "New Operations Design" - Design new operations with Digital Twin, ensuring optimal performance and minimal operational risk.
+- "Benchmarking Studies" - Compare your operations with industry leaders using our Structured Methodology, identifying areas of improvement.
+- "Process Maturity Models" - Assess and improve the maturity of your processes using our Augmented Intelligence, driving efficiency and effectiveness.
+- "Cost Reduction" - Reduce costs and improve performance using Impact Analysis, identifying areas of inefficiency and waste.
+- "Customer Journeys" - Improve the customer experience using Design Thinking, creating seamless and efficient journeys.
+- "Operational Risk Assessment" - Identify and mitigate operational risks using our 360-degree perspective, ensuring business continuity.
+- "Digital Transformation" - Embrace digital technology and improve operations using our Digital Twin, staying ahead of the competition.
+- "Implementation Support" - Ensure successful implementation using our Structured Methodology, driving results and minimizing risk.
+
+In building the model, the information required is as follows:
+1. Process Map: A level 3 cross functional process map consisting of teams, start, end, activities, decisions and arrows.  This is the base of the information required.
+3-Cubed can compute where rework is happening based on the decisions, arrows, and activities.
+2. Outcome: Marking those end activities that represent rejections.  Together with rework, 3-cubed is able to compute where the process results in not First Time right.
+3. Teams: Information on the teams in the process map including location, work hours, shift length, and team size.  This information helps set up a global clock for scheduling the activities.
+4. Product:  The output of each activity (and therefore the input to the successor activity).  This helps define the activity volume as well as later on, the control objectives.
+5. Volume: The number of times the activity is performed.  The volume for the preceding activity is the volume for the next activity.  At decisions, the volume splits into multiple paths that 3-Cubed computes.  With volume information and the process map, 3-Cubed can compute the %rework, %rejection and %non-first time right.
+6. Average Handle Time (AHT): The time taken to perform the activity once.  The AHT multiplied by the volume is the effort required for each activity.  If we divide the activity effort by the shift length of each activity, we get the implied number of people in the team needed to perform the activity, and the minimum team size by summing the implied number of people for each activity performed by the team.
+7. Wait periods:  These are wait times between activities, typically when two activities are performed by different teams.  These wait times can be entered as delays, specific times of day, beginning or end of day wait times.  These increase the cycle time of process as subsequent activities can start only after this wait period, when specified.
+8. Deadlines: These are times associated the activities by which time all tasks of the activity need to be completed.  These can either be expressed as absolute deadlines that must be completed irrespective of preceding tasks or relative deadlines where these are to be completed after the activity mentioned as relative to within the time frame mentioned.
+Effort, work timing, team size, wait periods and deadlines are used as parameters for 3-Cubed to generate a schedule to complete the tasks represented by the activities and rework in the process map, in the order represented by the arrows within the deadlines and adhering to the wait periods.  If required, 3-Cubed automatically increases the team size to adhere to the deadlines and can provide the cycle time for the process, including the resources required by each team at each period of the scheduling, the bottlenecks and the tasks delayed because they are waiting for teams to start work the next day.  
+
+9. Systems and Applications:  This is the software used for each activity in the process map.
+10. Forms and Modes: Forms are the digital or physical screens or documents that are used by each activity in the process.  Mode is the means by which the documents move from one activity to the other and include digital, paper, image, phone or video.
+11. Rules and Competency:  These are inputs or elements of the forms that define the calculations, guidelines, templates, or policies to be used in performing an activity.  The competency for each rule determines the skill required to follow the element and is classified as Fact, Computation or Judgement.  
+The rules and competencies determine the expertise required to perform the activity and when aggregated for all activities performed by a team, indicate the skills required by the team.
+The systems used and the modes also point to the automation potential for the activity, with digital modes allowing automation, but manual modes requiring digitization prior to automation.  The competency of an activity determines if the automation is machine learning (for judgement rules) or RPA automation (for facts and computation).
+12.  Controls and Objectives:  Control Objective refers to a specific goals or objectives to ensure the quality, and compliance of the process.  Controls are the specific activities in the process that enable the objective to be met.  Users add Objectives and select the control activities, mapping each control to the objective.
+The control mapping allows 3-cubed to compute the control adequacy, i.e. which objectives have control and if they have sufficient control (three lines of defence).  3-cubed can also compute the effectiveness of the control based on segregation of duty (control performed by a different team than the one performing the non-control activities); proximity of the control to non-control activities; and if the appropriateness of the activity Rules to serve as controls.
+The effort of the control activities provides the control effort metric and if the control effort is high, it may indicate over control along with more than 4 lines of defence.  Control rework is the rework that is caused by control activities, particularly decisions. 
+13.  NVA activities: Identifying activities or steps in the process that do not directly contribute to achieving the desired outcome or adding value to the customer and classifying them into routing (sending and receiving information), reporting (unnecessary controls) and recording (data entry).
+The effort spent on these activities is the NVA effort that can be removed to save cost and cycle time.
+14. Salaries is the average salary paid to each team.
+Salaries for each team multiplied by the team size gives the total HR cost.
+15. Infrastructure cost is the average seat cost per location.
+The schedule also computes peak capacity viz, the time when the most number of people in each team are required in office.  The sum of this peak capacity for any given hour for all teams in the same location defines the number of seats needed.  The sum of the peak number of seats per location multiplied by the seat cost per location is the infrastructure cost.
+
+Total Cost is the sum of HR cost and Infrastructure Cost
+
+If you refer the above section, you can see the metrics computed are:
+Cost Metrics:
+Total Cost
+Infrastructure Cost
+HR Cost
+Number of people (peak utilization)
+Effort
+Automation Potential
+NVA effort
+Non-FTR effort
+Control effort
+Customer Experience metrics:
+First Time Right
+Critical Path
+Cycle Time
+Control Metrics:
+Control Adequacy (Lines of defense)
+Control Effectiveness
+Control rework
+Control effort
+Each of these metrics is computed using information in the Information phase above.
+
+In solving the model, 3-cubed provides ideas to resolve each metric depending on the metrics chosen for improvement. The ideas are like Lego blocks, in that they should be used together to design the desired operating model.
+The ideas for each metric are as follows:
+Cost Metrics:
+Infrastructure Cost: 
+Change Seat Cost
+Change Working Hours (to change the schedule)
+
+HR Cost:
+Change Salaries
+Change Location
+Skill (add or remove activity parameters and change competency)
+Work Allocation (group similar competency teams)
+
+Effort:
+Change First Time Right (reduce rework effort)
+Automate Activities (reduce AHT)
+Remove or automate NVA.
+Remove redundant control (reduce control effort)
+Skill (change competency or higher more qualified people to reduce AHT)
+
+Peak Utilization:
+All Effort Ideas, plus
+Change deadlines.
+Change working hours.
+Allocate work between teams.
+Merge Teams
+Change Wait Periods
+
+Number of People:
+All Effort Ideas and Peak Utilization Ideas
+
+Customer Experience Metrics:
+First Time Right:
+Skill people (so activity parameters for decisions are better)
+Automate (activities in the rework loop)
+
+Cycle Time:
+All Peak Utilization ideas, plus
+Add People
+(Note, since cycle time and peak utilization are trade-offs, they set a mutual limit on how much the idea can be used)
+
+Control Metrics:
+Adequacy:
+Add controls if under-controlled.
+Remove redundant controls (if over controlled)
+Control effectiveness:
+Skilling (change the control activity parameters to improve control)
+Work allocation (to improve skilling or to create segregation of duty)
+Edit process (to bring controls closer to risk activities)
+
+Users: 
+Any 3-Cubed project (the 6 stages) has the following participants:
+(a) the business sponsor oversees all goals and has all functions report to her. 
+(b) the capability owner is responsible for deploying 3-cubed across operations that need optimization and coordinating the results. 
+(c) the solution architect is responsible for using 3-cubed and coming up with impactful ideas for improvement and implementation. 
+(d) the business analyst is responsible for building the 3-cubed model by providing and validating the information. 
+(e) the process owner is responsible for day-to-day management of process and is the repository of the information required to build the model. 
+(f) The delivery leader manages multiple process owners so inherits some of their concerns but has a larger goal of ensuring their operations meet the need of all stakeholders (goals). She manages Process and Operations directly, but often need allies from Risk, Finance, IT and Teams heads to achieve these objectives. 
+
+3-Cubed is industry, geography, process, or goals agnostic.  Here is a typical case study for 3-Cubed.  While the industry here is telecom, and the geography is Europe, there are over 1000 examples covering financial services, insurance, healthcare, enterprise services, technology, social media, manufacturing companies across the globe across front office, middle office and back-office functions. 
+A European Telecom company needed help with their order management process. When Covid happened, the company was inundated with orders for telecom equipment to facilitate their clients' work from home needs. As the orders started coming in for different types of equipment, the company discovered its own problems in processing these orders because of the restrictions and reduced availability of its own staff. It was critical for them to manage this increased order flow with similar client experience (cycle time) as earlier, but with reduced resources and adequate controls to prevent revenue leakage or erroneous fulfilment. They turned to 3-Cubed for a solution. Inform: They had been working on various digital transformation initiatives prior to this pandemic and therefore had the information to build the model readily available. They uploaded this data onto 3-Cubed and validated the results within a week. Issues: The 3-Cubed digital twin showed that their cycle time had indeed gone up, and the root cause analysis indicated that this was because of the following metrics: a. controls effectiveness has suffered because controls were being perfunctorily performed in the mistaken belief that these would accelerate cycle time. however, the poor controls led to extra rework. b. the extra rework in turn led to increased wait periods waiting for the customer as well as c. extra effort in rework, particularly in non-value added routing activities to get the information to the right teams d. the combination of both these led to volatile daily utilization of the reduced team, resulting in spikes in peak utilization, which in turn exacerbated the delays in cycle time e. because of management effort to find the issues, these delays also led to increased reporting, once again leading to the extra effort, peak utilization and delays issues. Ideas: 3-Cubed suggested ideas to increase the control effectiveness by changing the sequence and timing of customer on-verification controls, centralizing these to reduce rework. The tool also suggested automation to reduce the effort of routing and reporting, but this was not acceptable to management given the delays in automation implementation. As best next actions 3-Cubed suggested minimal digitization of the routing process using video conferencing rather than email to reduce the wait periods and reduce rework. It also suggested a staggered work time for their staff other than fulfilment teams, leveraging the work from home patterns Finally, it suggested work allocation of specific tasks in client verification between the hubs and spokes factoring in resource availability to mitigate peak utilization. Impact: The impact of these ideas showed a reduction of 59% in cycle time from the current value of 24 days, an increase in first time right of 18%, and a reduction in peak utilization by 29% from the current team size of 190 persons. Implementation: Because all the relevant teams were part of the decision making, the implementation plan was rolled out seamlessly starting with the restructuring of the controls, and the use of video conferencing. This was followed by the work allocation of activities along with a formal rostering of the work from home staff based on the suggested work time for implementation within 2weeks.
+

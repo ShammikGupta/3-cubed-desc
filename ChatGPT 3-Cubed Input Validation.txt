@@ -1,0 +1,46 @@
+Information required by 3-Cubed to build a digital twin
+1.	Process Map: A level 3 cross functional process map consisting of teams, start, end, activities, decisions and arrows.  This is the base of the information required.
+2.	Outcome: Marking those end activities that represent rejections.  
+3.	Teams: Information on the teams in the process map including location, work hours, shift length, and team size.  
+4.	Product:  The output of each activity (and therefore the input to the successor activity).  This helps define the activity volume as well as later on, the control objectives.
+5.	Volume: The number of times the activity is performed.  The volume for the preceding activity is the volume for the next activity.  At decisions, the volume splits into multiple paths that 3-Cubed computes.  
+6.	Average Handle Time (AHT): The time taken to perform the activity once.  
+7.	Wait periods:  These are wait times between activities, typically when two activities are performed by different teams.  These wait times can be entered as delays, specific times of day, beginning or end of day wait times.  
+8.	Deadlines: These are times associated the activities by which time all tasks of the activity need to be completed.  These can either be expressed as absolute deadlines that must be completed irrespective of preceding tasks or relative deadlines where these are to be completed after the activity mentioned as relative to within the time frame mentioned.
+9.	Systems and Applications:  This is the software used for each activity in the process map.
+10.	Forms and Modes: Forms are the digital or physical screens or documents that are used by each activity in the process.  Mode is the means by which the documents move from one activity to the other and include digital, paper, image, phone or video.
+11.	Rules and Competency:  These are inputs or elements of the forms that define the calculations, guidelines, templates, or policies to be used in performing an activity.  The competency for each rule determines the skill required to follow the element and is classified as Fact, Computation or Judgement.  
+12.	 Controls and Objectives:  Control Objective refers to a specific goals or objectives to ensure the quality, and compliance of the process.  Controls are the specific activities in the process that enable the objective to be met.  Users add Objectives and select the control activities, mapping each control to the objective.
+13.	 NVA activities: Identifying activities or steps in the process that do not directly contribute to achieving the desired outcome or adding value to the customer and classifying them into routing (sending and receiving information), reporting (unnecessary controls) and recording (data entry).
+14.	Salaries is the average salary paid to each team.
+15.	Seat cost is the average seat cost per location.
+
+3-Cubed computes the following based on the above information
+a) Rework metric based on the process map decisions and Volume information
+b) Reject metric based on Outcome information and Volume information
+c) First Time right metric is derived from Rework and Reject
+d) Effort metric is Volume x AHT + Effort required for Rework
+e) Minimum FTE metric is Effort / Teams shift length
+Scheduling depends on:
+(1) Information on Teams to set up a global clock for scheduling the activities
+(2) Effort and Rework Metrics
+(3) Wait periods and deadlines
+Scheduling generates the following metrics:
+f) Critical Path
+g)	Bottlenecks and Delays
+h) Cycle Time
+i) Hourly and Peak Utilization
+j) Peak Capacity which is the number of seats
+k) Average Utilization is the Effort / (team size x shift length)
+l) Automation Potential metric is computed using the Forms and Modes with digital modes allowing automation, but manual modes requiring digitization 
+m) Automation Type metrics use Automation Potential along with Rules Competency and is machine learning (for judgement rules) or RPA automation (for facts and computation rules)
+n) Team Competency is based on rules and competencies to perform the activity aggregated for all activities performed by a team
+o) Control Adequacy is based on Controls input for objectives that have controls mapped and if they have sufficient control (three lines of defence).  
+p) Control Effectiveness metric is segregation of duty (control performed by a different team than the one performing the non-control activities); proximity of the control to non-control activities; and if the appropriateness of the activity Rules to serve as controls.
+q) Control Effort metric is the Effort of the control activities 
+r) Control rework metric is the rework that is caused by control activities, particularly decisions. 
+s) NVA metric is Effort on NVA activities as a %of total Effort
+t) HR Cost metric is Salaries for each team multiplied by the team size 
+u) Infrastructure Cost metric is Peak Capacity multiplied by the Seat cost input
+v) Total Cost metric is HR Cost + Infrastructure Cost
+

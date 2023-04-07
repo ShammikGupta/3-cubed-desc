@@ -1,0 +1,84 @@
+Content for video:
+
+3-Cubed uses the following information to create a digital twin.  
+
+STAGE 1: Process and Operations Information
+a) 	Process Map: A level 3 cross functional process map.  
+	1)	3-Cubed uses this as a base for the rest of the information, and to determine who does what with whom and in what order. 
+	2) 	We dont need overly details or key-stroke process maps, but its important to capture the relevant teams, variations and decision
+	3)	3-Cubed is agnostic to the source of information and has APIs that can read process maps in Visio, BPMN, XML, or Excel formats
+b)	Teams Location:  Information on the teams in the process map
+	1)	3-Cubed uses this to initialize a global clock on when what work can be scheduled. 
+	2) 	The information required is team location; working hours; shift length; if they are humans or machines, in-scope or out of scope.
+	3)	The information is entered on a single screen
+c)	Systems and Applications:  The software technology that is used in the process
+	1)	3-Cubed uses this to determine the forms and business rules use, and to determine the automation potential  
+	2) 	The information required is team location; working hours; shift length; if they are humans or machines, in-scope or out of scope.
+	3)	The information is entered on a single screen
+d)	Product:  Information on the input and output of each activity of the process map
+	1)	3-Cubed uses this to ensure that Volume is correctly captured, and to help capture the control objectives 
+	2) 	The output of any activiy is the input to the next activity, so the information required is the output of each activity 
+	3)	The information context specific, though 3-Cubed provides machine learning support to enter this information
+e)	Volume:  The volume of tasks performed by each activity.
+	1)	3-Cubed uses this to compute the percentage of rework, rejects and effort. 
+	2) 	Provide the starting volume and then the % split at each decision activity so 3-cubed computes the volume for each path
+	3)	You can enter the volume based on history, judgment or desired capacity
+f)	Average Handle Time: The average time it takes to perform one task of an activity
+	1)	3-Cubed uses this to compute the effort of each activity, along with volume 
+	2) 	You don't need time and motion studies, guestimates are good enough. 3-Cubed will identify if the data is wildly inaccurate.
+	3)	You can provide this information from workflow, process miners, spreadsheets in CSV or Excel formats, or enter it directly
+
+STAGE 2: Team Size and Work Scheduling Information
+g)	Periodic Activities: Activities in the process that are not performed daily
+	1)	This information is captured so 3-cubed can compute the number of people that are required to manage the periodic workload in addition to daily tasks 
+	2) 	Mark out the activities in the process map and provide information on their periodicity, start date(s) and duration
+	3)	You can enter the information directly on to the tool. The ability to enter the information via Excel is in the next release.
+h)	Teams Size:  The number of people in each team
+	1)	3-Cubed uses this to determine the critical path, the cycle time and the overall and peak utilization by team   
+	2) 	The information required is number of people in each team, and it cannot be less than the effort for each time divided by the working hours
+	3)	The information is entered on a single screen, but can be sourced from various records
+i)	Wait Periods: The wait time between two activities because of volume arrival patterns, time taken to respond, or system timing
+	1)	3-Cubed uses this to schedule work taking into account the impact these wait times have on availability of the next work item 
+	2) 	You can provide wait periods, specify specific times of day, beginning or end of day periods, only for those activities where relevant
+	3)	Best to enter this information directly into the tool, though information can be sourced from process miners, workflow or workforce tools
+j)	Deadlines: The contractual or policy commitments by when to finish certain activities in the process
+	1)	3-Cubed uses this to schedule work taking into account the impact these deadlines have on the people needed to ensure these are met 
+	2) 	You can provide either absolute deadlines, irrespective of previous activities or deadlines relative to a previous activity
+	3)	Best to enter this information directly into the tool, though information can be sourced contracts, policies or procedure documents
+
+STAGE 3: Qualitative and Context Information
+k)	Forms: The kay paper or digital forms that are used for each activity.
+	1)	Helps select the business rules and the mode of information flow for automation assessment. 
+	2) 	Don't need every form, but the main forms used through the process, but is important to capture how the information flows and the key rules
+	3)	The information can be entered via Excel, though 3-Cubed also provides machine learning support to enter this information
+l)	Business Rules:  The key fields in the forms or business rules required to perform the activity.  Also if these are fact, computations, or judgment
+	1)	Helps in understanding the competency required to perform the activity and therefore team competency, and also type of automation possible
+	2) 	Don't need every field, but the main sections, to capture competency and the type of rules the teams need to know
+	3)	The information can be entered via Excel, though 3-Cubed also provides machine learning support to enter this information	
+m)	Risk and Controls: Control objectives and selection of controls
+	1)	Used to understand over or under-control, control effectiveness and the effort spent on control
+	2)	Users can select objectives through a library or enter their own objectives.  
+	3)	Machine learning identifies existing control activities, but seeks user confirmation and if it a control, asks to map it to the relevant objective(s)
+n)	NVA: Aided selection of NVA type activities
+	1)	Used to compute effort of non-core activities to reduce effort and critical path
+	2)	3-Cubed uses machine learning to identify activities as action, reporting, routing or recording and requests user to confirm classification
+	3)	Information entered on a single screen, aided by machine learning	
+
+STAGE 4: Financial Information
+p)	Team Salaries: Average salary per team by location
+	1)	Along with Team Size, used to compute the total HR cost, and also to assess if salary is commensurate with competency required
+	2)	Only requires average team cost, not cost at individual level.  Also asks for benchmark costs for different experience levels  
+	3)	Information entered on a single screen, but can be sourced through various internal and job-sites resources
+r)	Seat Cost: Cost per seat or component by location
+	1)	Used to compute Infrastructure cost along with the results of the sceduling that determines the seats required
+	2)	Information can be provided either as a consolidated cost per seat per annum or separated into cost per seat and software cost
+	3)	Information entered on a single screen, but can be sourced through budget, pricing or other sources	
+
+
+
+	
+
+
+
+	
+	
